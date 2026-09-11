@@ -1,0 +1,6 @@
+{
+  "name": "Pomodius",
+  "description": "Kinetic neo-brutalist Pomodoro focus timer with task management, desk standby mode, and productivity telemetry",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

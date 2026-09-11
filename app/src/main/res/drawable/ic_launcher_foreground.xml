@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Offset shadow projection -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M52,30 h8 v6 h-8 z M56,36 A 22,22 0 1 1 55.9,36 z" />
+    <!-- Outer timer body with thick brutalist stroke -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#000000"
+        android:strokeWidth="4"
+        android:pathData="M50,27 h8 v6 h-8 z M54,33 A 22,22 0 1 1 53.9,33 z" />
+    <!-- Top stem button and side button -->
+    <path
+        android:fillColor="#DC3214"
+        android:strokeColor="#000000"
+        android:strokeWidth="2.5"
+        android:pathData="M49,24 h10 v4 h-10 z" />
+    <path
+        android:fillColor="#006970"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="M70,36 l4,-4 l3,3 l-4,4 z" />
+    <!-- Dynamic Lightning Bolt in center -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M56,43 L48,55 L53,55 L51,65 L61,52 L55,52 Z" />
+    <path
+        android:fillColor="#FAFF00"
+        android:strokeColor="#000000"
+        android:strokeWidth="1.5"
+        android:pathData="M55,42 L47,54 L52,54 L50,64 L60,51 L54,51 Z" />
+</vector>
